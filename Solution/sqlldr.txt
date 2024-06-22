@@ -1,0 +1,3 @@
+C:\>sqlldr aed/Oracle2018@ssbdw1 direct=true control=E:/loadLineorder.ctl
+C:\>sqlldr aed/Oracle2018@ssbdw1 direct=true control=E:/loadLineorder.ctl
+C:\>sqlldr aed/Oracle2018@ssbdw1 direct=true control=E:/loadLineorder.ctl

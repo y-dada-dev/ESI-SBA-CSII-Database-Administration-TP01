@@ -1,0 +1,85 @@
+LOAD DATA 
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_341.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_342.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_343.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_344.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_345.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_346.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_347.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_348.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_349.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_350.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_351.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_352.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_353.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_354.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_355.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_356.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_357.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_358.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_359.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_360.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_361.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_362.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_363.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_364.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_365.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_366.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_367.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_368.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_369.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_370.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_371.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_372.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_373.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_374.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_375.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_376.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_377.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_378.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_379.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_380.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_381.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_382.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_383.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_384.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_385.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_386.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_387.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_388.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_389.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_390.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_391.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_392.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_393.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_394.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_395.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_396.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_397.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_398.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_399.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_400.tbl'
+INFILE 'J:/0-SSB-Lineorder-SPLIT/RestOflineorder/lineorder_401.tbl'
+
+append
+INTO TABLE LINEORDER 
+FIELDS TERMINATED BY '|'
+(  
+  lo_orderkey        ,
+  lo_linenumber      ,
+  lo_custkey         ,
+  lo_partkey         ,
+  lo_suppkey         ,
+  lo_orderdate       ,
+  lo_orderpriority   ,
+  lo_shippriority    ,
+  lo_quantity        ,
+  lo_extendedprice   ,
+  lo_ordertotalprice ,
+  lo_discount        ,
+  lo_revenue         ,
+  lo_supplycost      ,
+  lo_tax             ,
+  lo_commitdate      ,
+  lo_shipmode     
+)
